@@ -1,0 +1,4 @@
+[1017/230524.000:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1022/121209.791:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[1022/121210.230:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[1022/121210.525:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 166 ms
